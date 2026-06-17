@@ -12,7 +12,7 @@ I'll create a professional GitHub README for your **StickForce AI - Gesture Batt
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red.svg)](https://opencv.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![Game Screenshot](assets/screenshot.png)
+![Game Screenshot](Screenshot 2026-06-17 190607.png)
 
 ---
 
